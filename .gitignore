@@ -1,2 +1,12 @@
 .DS_Store
 .Rproj.user
+
+data/communication/bundesnetzagentur-emf/antennas_map.R
+
+data/communication/bundesnetzagentur-emf/.Rhistory
+
+data/employment/it-nrw_13211-03ir/.Rhistory
+
+data/communication/bundesnetzagentur-emf/unemployment_trend.png
+
+data/communication/bundesnetzagentur-emf/ggmapTemp.png
